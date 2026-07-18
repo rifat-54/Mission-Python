@@ -1,0 +1,1 @@
+str1="this is string/n we are creating it in python"
