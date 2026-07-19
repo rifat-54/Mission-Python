@@ -14,6 +14,21 @@
 
 # print(len(str3))
 
-str1="my name is rifat"
+# str1="my name is rifat"
 
-print(str1[3])
+# print(str1[3])
+
+
+str1="apple name"
+
+# print(str1[-2:-5])
+
+# print(str1.endswith("m"))
+
+# print(str1.capitalize())
+
+# print(str1.replace("name","fruit"))
+
+# print(str1.find("name"))
+
+print(str1.count("a"))
