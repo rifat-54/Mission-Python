@@ -28,6 +28,6 @@ list.append(5)
 
 # list.remove(1)  //remove first coourance
 
-list.pop(1)
+list.pop(1)  #remove index 1 value
 
 print(list)
