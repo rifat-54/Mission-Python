@@ -1,2 +1,2 @@
 
-# print(marks[-4:-2])
+# print(pair[1])
