@@ -20,8 +20,19 @@ def add(a,b):
 
 # printHello("Rifat")
 
-def avarage3num(a,b,c):
-    avg=(a+b+c)/3
-    print(avg)
+# def avarage3num(a,b,c):
+#     avg=(a+b+c)/3
+#     print(avg)
 
-avarage3num(6,9,11)
+# avarage3num(6,9,11)
+
+
+# print("hello",end="$")
+
+# print("rifat")
+
+def cal_prod(b,a=3):    #default value will be add form last index
+    print(a*b)
+    return a*b
+
+cal_prod(2)
